@@ -1,0 +1,43 @@
+.bigbox
+ {
+  width:322px ;
+  height:580px ;
+  border:solid 1px;
+ }
+
+h3{
+ width:300px ;
+ height:30px ;
+ margin:10px;
+ }
+
+ .image 
+ {
+  margin:10px;
+  border:10px black;     
+}
+
+.p{
+  width:300px;
+  height:300px;
+  margin:10px;
+  border:solid 1px;
+}
+  .italic1
+  {
+   font-style:italic;
+   padding:5px;
+   margin:5px;
+  }
+
+ 
+      
+  ul {
+   list-style: none;
+   padding:5px;
+   margin:5px; 
+     }
+  .des{
+    padding:5px;
+   margin:5px;
+  }
